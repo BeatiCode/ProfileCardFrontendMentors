@@ -10,7 +10,7 @@ body {
     background:
         url(images/bg-pattern-top.svg) no-repeat,
         url(images/bg-pattern-bottom.svg) no-repeat center top;
-    background-position: -350px -500px, 500px 450px;
+    background-position: -350px -500px, 650px 350px;
     background-color: hsl(185, 75%, 39%);
 }
 .container {
